@@ -1,0 +1,28 @@
+name: Tom Maroney
+favicon: null
+layout_spectrum: 0.7317053191363811
+typography_spectrum: 0.6533772847615182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39188292738981545
+  lightness: 0.7080135648138821
+  saturation: 0.48867731052450836
+  rhythmicContrast: 0.7836273729335517
+purpose: []
